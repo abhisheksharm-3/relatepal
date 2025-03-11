@@ -1,4 +1,4 @@
-# Meaningful Connections
+# Relatepal
 
 An intelligent relationship management app that helps users maintain important personal connections through AI-driven suggestions.
 
@@ -56,8 +56,8 @@ This application is currently in development. The initial version focuses on cor
 
 ### Prerequisites
 - Android Studio Arctic Fox or newer
-- Min SDK: 24 (Android 7.0)
-- Target SDK: 34 (Android 14)
+- Min SDK: 29 (Android 10.0)
+- Target SDK: 35 (Android 15)
 
 ### Building the Project
 1. Clone the repository
